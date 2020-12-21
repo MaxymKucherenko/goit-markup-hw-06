@@ -384,6 +384,12 @@ footer {
 
 .footer-subs {
   margin-left: 93px;
+  margin-left: 70px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .subs {
